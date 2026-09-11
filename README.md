@@ -1,6 +1,6 @@
-# Descriptions-of-the-real-estate-financial-models-I-made
+# Descriptions-of-the-financial-models-I-made
 
-My hands-on repository documenting real estate underwriting and investment analysis through financial modelling, covering areas such as acquisitions, multifamily, office, development, debt, waterfalls, returns and sensitivity analysis.
+My hands-on repository documenting investment analysis through financial modelling, I recently started with real estate underwriting, covering areas such as acquisitions, multifamily, office, development, debt, waterfalls, returns and sensitivity analysis.
 
 First Model: Multifamily Model_Pierre Elie Mattijs_Sep-11-26
 
