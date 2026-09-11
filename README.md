@@ -4,8 +4,8 @@ My hands-on repository documenting real estate underwriting and investment analy
 
 First Model: Multifamily Model_Pierre Elie Mattijs_Sep-11-26
 
-Hardcoded Values = Blue
-Calculated Values = Black 
+Hardcoded Values = Blue,
+Calculated Values = Black, 
 Referenced Values = Green
 
 Hours:Minutes:Seconds
