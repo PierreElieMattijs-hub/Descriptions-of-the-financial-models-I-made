@@ -75,3 +75,52 @@ Sheet Monthly Cash Flow:
 Sheet Summary:
 - Returns Summary Box
 
+Second Model: Multifamily Model - Value-Add_Pierre Elie Mattijs_Sep-16-26
+
+In this second model, I build on the first model by implementing a value-add strategy. The objective is to calculate the costs associated with the building renovations and the resulting additional revenue. But before going further, I noticed a formatting mistake in the first model in the Monthly Cash Flow tab. I corrected it and then proceeded with the steps below.
+
+Hardcoded Values = Blue, Calculated Values = Black, Referenced Values = Green
+
+Hours:Minutes:Seconds
+
+Step 1 00:08:21
+
+Sheet Rehab: 
+
+Interior Improvements Box
+Exterior Improvements Box
+
+Step 2 00:19:31
+
+Sheet Summary:
+
+Rehab Summary Box
+
+Step 3 00:45:14
+
+Sheet Rehab:
+
+Rehab Schedule Box 
+
+Step 4 00:57:46
+
+Sheet Monthly Cash Flow:
+Added Row 21 Renovation Premium 
+Added Row 22 GPR Post Renovation 
+Modified Row 23 Loss to Lease
+Modified Row 24 GSR 
+Added Row 15 Rehab Vacancy 
+Added Row 26 Rehab Vacancy 
+
+Sheet Summary:
+Added Row 18 Renovation Costs, in the Acquisition Assumptions Box
+
+Sheet Monthly Cash Flow:
+Added Row 67 Rehab Costs
+Added Row 83 Rehab Costs
+
+Step 5 01:02:02
+
+Sheet Summary:
+Modified Row 34 from Net Operating Income to NOI Post Renovations
+Modified Row 35 from Purchase price to Total Capitalization
