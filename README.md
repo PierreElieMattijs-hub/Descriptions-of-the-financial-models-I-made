@@ -131,3 +131,5 @@ A simple grid to understand how commercial operating statements are impacted bas
 Roll Calculations_Pierre Elie Mattijs_Sep-20-26.xlsx
 
 A simple model that forecasts the monthly cash flow of a single commercial space through a lease expiration (roll), using probability-weighted assumptions for renewal, downtime, free rent, tenant improvements and leasing commissions.
+
+Done in 00:26:43.
