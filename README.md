@@ -8,7 +8,7 @@ Hours:Minutes:Seconds
 
 --------------------------------------------------------------------------
 
-Multifamily Model_Pierre Elie Mattijs_Sep-22-26.xlsx
+(GitHub Published) Multifamily Model_Pierre Elie Mattijs_Sep-22-26.xlsx
 
 Step 1 00:15:06
 
@@ -77,7 +77,7 @@ Sheet Summary:
 
 --------------------------------------------------------------------------
 
-Multifamily Model_Pierre Elie Mattijs_Sep-16-26.xlsx
+(GitHub Published) Multifamily Value Add Model_Pierre Elie Mattijs_Sep-23-26.xlsx
 
 In this second model, I build on the first model by implementing a value-add strategy. The objective is to calculate the costs associated with the building renovations and the resulting additional revenue. But before going further, I noticed a formatting mistake in the first model in the Monthly Cash Flow tab. I corrected it and then proceeded with the steps below.
 
