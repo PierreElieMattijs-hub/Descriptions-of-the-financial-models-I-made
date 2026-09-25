@@ -234,13 +234,15 @@ Sheet Summary:
 
 --------------------------------------------------------------------------
 
-Commercial Operating Statements According to Three Different Common Lease Types_Pierre Elie Mattijs_Sep-20-26.xlsx
+(GitHub Published) Three Operating Statements Models_Pierre Elie Mattijs_Sep-25-26.xlsx
 
 A simple grid to understand how commercial operating statements are impacted based on three different common lease types: Triple Net (NNN), Full-Service Gross (FSG) and Modified Gross (MG).
 
+Done in 00:12:42.
+
 --------------------------------------------------------------------------
 
-Roll Calculations_Pierre Elie Mattijs_Sep-20-26.xlsx
+(GitHub Published) Roll Calculations_Pierre Elie Mattijs_Sep-25-26
 
 A simple model that forecasts the monthly cash flow of a single commercial space through a lease expiration (roll), using probability-weighted assumptions for renewal, downtime, free rent, tenant improvements and leasing commissions.
 
