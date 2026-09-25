@@ -242,8 +242,16 @@ Done in 00:12:42.
 
 --------------------------------------------------------------------------
 
-(GitHub Published) Roll Calculations_Pierre Elie Mattijs_Sep-25-26
+(GitHub Published) Roll Calculations_Pierre Elie Mattijs_Sep-25-26.xlsx
 
 A simple model that forecasts the monthly cash flow of a single commercial space through a lease expiration (roll), using probability-weighted assumptions for renewal, downtime, free rent, tenant improvements and leasing commissions.
 
 Done in 00:26:43.
+
+--------------------------------------------------------------------------
+
+(GitHub Published) Simple Waterfall_Pierre Elie Mattijs_Sep-25-26.xlsx
+
+A simple two-partner waterfall based on an 20/80 split between GP and LP. There is first 25% return-on-equity hurdle for the two partners. Then, a 50/50 split of the remaining cash flow. At the end, I add a samll returns hurdle box.
+
+Done in 00:14:11.
