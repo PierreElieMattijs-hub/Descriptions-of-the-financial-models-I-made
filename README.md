@@ -252,6 +252,14 @@ Done in 00:26:43.
 
 (GitHub Published) Simple Waterfall_Pierre Elie Mattijs_Sep-25-26.xlsx
 
-A simple two-partner waterfall based on an 20/80 split between GP and LP. There is first 25% return-on-equity hurdle for the two partners. Then, a 50/50 split of the remaining cash flow. At the end, I add a samll returns hurdle box.
+A simple two-partner waterfall based on an 20/80 split between GP and LP. There is first 25% return-on-equity hurdle for the two partners. Then, a 50/50 split of the remaining cash flow. At the end, I add a small returns hurdle box.
 
 Done in 00:14:11.
+
+-------------------------------------------------------------------------
+
+(GitHub Published) Waterfall Intermediate_Pierre Elie Mattijs_Sep-29-26.xlsx
+
+A three-tier waterfall based on an 85/15 split between LP and GP, over a five-year project cash flow. There is first an 8% IRR hurdle, pari passu, where both partners get their capital back. Then, a 70/30 split until the LP reaches a 10% IRR, and a 65/35 split for the rest. Each hurdle has its own accrual account per partner and an IRR check. At the end, I sum up the cash flows of both partners and reconcile them with the deal-level cash flow.
+
+Done in 00:40:05.
