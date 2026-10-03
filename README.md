@@ -263,3 +263,75 @@ Done in 00:14:11.
 A three-tier waterfall based on an 85/15 split between LP and GP, over a five-year project cash flow. There is first an 8% IRR hurdle, pari passu, where both partners get their capital back. Then, a 70/30 split until the LP reaches a 10% IRR, and a 65/35 split for the rest. Each hurdle has its own accrual account per partner and an IRR check. At the end, I sum up the cash flows of both partners and reconcile them with the deal-level cash flow.
 
 Done in 00:40:05.
+
+-------------------------------------------------------------------------
+
+(GitHub Published) Simple Multifamily Underwriting_Pierre Elie Mattijs_Oct-4-26.xlsx
+
+In this multifamily underwriting case, I am provided with an offering memorandum (OM) from a broker, the investment firm’s pro-forma model to populate with the relevant data, as well as the historical financials already included in the pro-forma model. 
+My task is to underwrite the property by first extracting information from the OM, then analyzing the historical financials, and finally forecasting cash flows.
+
+Step 1 00:01:45
+
+Sheet Assumptions: 
+- Completed the basic operating assumptions from rows 6-20
+- Added the acquisition date
+
+Step 2 00:04:53
+
+Sheet Unit Mix: 
+- Completed the entire Unit Mix tab using the market rents provided by the broker in the OM. 
+Note: As I am still getting familiar with this pro forma, I traced formula dependencies to understand how the tabs in the model are linked. I Used an LLM to compare the OM and my Excel pro forma. All displayed figures matched.
+
+Step 3 00:05:07
+
+Sheet Assumptions: 
+- Completed two other operating assumptions: Other Income per Unit per Year and RUBS Income per Unit per Year. Let's pretend I received these assumptions from a supervisor.
+Note: Other Income and RUBS Income on the Pro-Forma and Returns sheet depend on these operating assumptions. These income items are projected on that sheet.
+
+Step 4 00:06:09
+
+Sheet Assumptions: 
+- Filled in two additional operating assumptions: Loss-to-Lease and Vacancy Rate.
+Note: I entered a fixed percentage for Loss-to-Lease, which seems unrealistic. However, I will keep it as is while acknowledging this 'limitation'. The Vacancy Rate is also fixed. A constant percentage is more common for Vacancy Rate than for Loss-to-Lease.
+Once again, I will pretend I received these assumptions from a supervisor. They will be cross-checked later against the historical financials.
+
+Pro-Forma and Returns sheet :
+- Completed Concessions and Non-Rev/Bad Debt/Adjust.
+Note: I have now completed the forecast down to Net Rental Income, except for the Gain with Renovations row, as I have not reached that section yet.
+
+Step 5 00:12:02
+
+T-12 Backup sheet:
+- Created data validation dropdown lists using the revenue and expense itens from the Pro-Forma and Returns tab. I then assigned each T-12 line an item. 
+Note: these labels will then be used in SUMIFS formulas to aggregate the amounts into the appropriate rows on the Pro-Forma and Returns sheet.
+
+Step 6 00:22:58
+
+Pro-Forma and Returns sheet:
+- Used SUMIF formulas to aggregate the T-12 expenses by category in a temporary calculation area, starting in column T.
+- Divided each total by the number of units to calculate annual expenses per unit in column U, then increased these amounts by 3% in column V.
+- Pasted the resulting values from column V into the pro forma’s per-unit expense inputs in column D. The model multiplies these inputs by the number of units to calculate total projected expenses.
+- Also used SUMIF formulas to aggregate historical revenues and compare them with my forecast assumptions.
+- Reversed the sign of historical RUBS to present it as income rather than a reduction in expenses.
+Note: This comparison helps me assess whether my assumptions are reasonable relative to historical performance.
+
+Step 7 00:26:45
+
+Pro-Forma and Returns sheet:
+- Completed the growth and vacancy assumptions for two scenarios: Continued Expansion and Market Downturn and Recovery. 
+Note: The operating scenario toggle in the Assumptions sheet selects which scenario is used in the cash flow forecast. Kept the additional Loss-to-Lease adjustment at 0% in both scenarios, as the initial 2% assumption is already included in the pro forma. Let's pretend all assumptions come from market research.  
+
+Step 8 00:27:14
+
+Sheet Assumptions:
+- Entered CapEx per Unit per Yr.
+
+Pro-Forma and Returns sheet:
+- Added annual renovation income from Year 3 on row 32, growing thereafter.
+Note: The model unusually assumes ongoing CapEx throughout the holding period and renovation income starting all at once in Year 3.
+
+Step 9 00:29:28
+
+Sheet Assumptions:
+- Completed Acquisition Assumptions and Exit Assumptions boxes.
