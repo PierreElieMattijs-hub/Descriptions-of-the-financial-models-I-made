@@ -335,3 +335,90 @@ Step 9 00:29:28
 
 Sheet Assumptions:
 - Completed Acquisition Assumptions and Exit Assumptions boxes.
+
+-------------------------------------------------------------------------
+
+(GitHub Published) Office Cash Flows Underwriting_Pierre Elie Mattijs_Oct-6-26.xlsx
+
+In this case, I am building a 10-year cash flow model for a 130,000-square-foot office building in Los Angeles. The document - Office Cash Flows Underwriting Case - with assumptions and instructions is attached, along with a partially completed pro forma model that I am going to fill in.
+
+My tasks are to:
+- Calculate all the way down to IRR, equity multiple and cash-on-cash return at years 3, 5, and 10.
+- Answer three questions, providing my opinion on the investment.
+
+Step 1
+
+Sheet Pro-Forma:
+- Completed the Market Leasing Assumptions box, rows 9-19.
+
+Step 2
+
+Sheet Pro-Forma:
+- Built the Max Consulting Roll Analysis box rows 24-46.
+- The tenant rolls in 2021 and 2026, so I weighted the downtime, the TIs and the LCs by the renewal probability.
+Note: I assumed no rent steps on the new leases based on instructions.
+
+Step 3
+
+Sheet Pro-Forma:
+- Completed the Max Consulting box rows 29-31.
+
+Step 4
+
+Sheet Pro-Forma:
+- Built the Max Consulting TI/LC Analysis box rows 24-37.
+- Completed the Max Consulting box rows 33-35 (yellow).  
+Note: The tenant rolls in 2021 and 2026.
+
+Step 5
+
+Sheet Pro-Forma:
+- Completed the Next Wave Financial box rows 44-51, same methodology.
+Note: The tenant rolls in 2024 and 2029.
+
+Step 6
+
+Sheet Pro-Forma:
+- Completed Base Rent (row 5) of Prestige Worldwide box.
+Note: Base Rent is based on Market Rent - Gross with 3.5% steps. There is weighting on the TIs and LCs, since the lease is certain.
+
+Step 7
+
+Sheet Pro-Forma:
+- Completed the Base Year Stop box rows 54-61.
+- Completed the Prestige Worldwide box rows 59-61.
+
+Step 8
+
+Sheet Pro-Forma:
+- Completed the Prestige Worldwide box rows 63-65.
+
+Step 9 
+
+Sheet Pro-Forma:
+- Completed the Property Level Cash Flow Summary box, rows 72-91.
+
+Step 10
+
+Sheet Pro-Forma:
+- Completed the Investment Analysis box, rows 98-102.
+- Completed the Cap Rates box, rows 100-107.
+- Completed the Investment Analysis box, rows 104-108.
+
+Step 11
+
+Sheet Pro-Forma:
+- Completed the Investment Analysis Results box, rows 111-116.
+
+Step 12
+
+Answers to the three questions:
+
+Question 1: Are you for or against the acquisition?
+I am neither for nor against, based on the numbers alone. Three things need to be answered first. Does the deal fit the group's investment criteria, meaning the right market, the right vintage, the right tenants? Does it meet the group's return threshold? Here the buyer is a REIT, and I don't know what metrics they underwrite on. Also, how do comparable properties underwrite? If a similar deal at $60M produces more cash flow, that one should be chosen. There is more to an acquisition than its financial metrics.
+
+Question 2: How did you determine the exit cap rate?
+I started from the entry cap rate, 2020 NOI ($3mio) over the purchase price($60mio), which gives 5.0%. Then I added 5 bps of cap rate inflation per year over the 10-year hold, which gives 5.5% at exit. The logic is that a building moves down in class as it ages, and higher-risk classes trade at higher cap rates. It is a simplification.
+
+Question 3: What other indicators would you consider?
+On the financial side, leverage. I assumed an all-cash deal. A mortgage would reduce the equity invested and improve the returns, if the group accepts it. On the non-financial side, the creditworthiness of the tenants, since a large financial institution and a startup with one year of cash do not carry the same risk, and the competing supply planned in the area, because too much new space and not enough tenants results in higher vacancy.
