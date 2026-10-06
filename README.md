@@ -268,7 +268,7 @@ Done in 00:40:05.
 
 (GitHub Published) Simple Multifamily Underwriting_Pierre Elie Mattijs_Oct-4-26.xlsx
 
-In this multifamily underwriting case, I am provided with an offering memorandum (OM) from a broker - document Sherwood Package OM-Adjusted attched -, the investment firm’s pro-forma model to populate with the relevant data, as well as the historical financials already included in the pro-forma model. 
+In this multifamily underwriting case, I am provided with an offering memorandum (OM) from a broker - document Sherwood Package OM-Adjusted attached -, the investment firm’s pro-forma model to populate with the relevant data, as well as the historical financials already included in the pro-forma model. 
 My task is to underwrite the property by first extracting information from the OM, then analyzing the historical financials, and finally forecasting cash flows.
 
 Step 1 00:01:45
